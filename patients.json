@@ -1,0 +1,17 @@
+[
+    {
+        "p_name": "john",
+        "issue": "dermetology",
+        "time_required": 3
+    },
+    {
+        "p_name": "bheem",
+        "issue": "cardiology",
+        "time_required": 3
+    },
+    {
+        "p_name": "jack",
+        "issue": "dermetology",
+        "time_required": 9
+    }
+]

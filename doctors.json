@@ -1,0 +1,22 @@
+[
+    {
+        "d_name": "siddi sai",
+        "speciality": "dermetology",
+        "availability": 9
+    },
+    {
+        "d_name": "samba siva",
+        "speciality": "cardiology",
+        "availability": 7
+    },
+    {
+        "d_name": "narsimha rao",
+        "speciality": "orthopedics",
+        "availability": 10    
+    },
+    {
+        "d_name": "appa rao",
+        "speciality": "orthopedics",
+        "availability": 13   
+    }
+]
