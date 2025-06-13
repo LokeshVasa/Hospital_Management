@@ -18,5 +18,10 @@
         "d_name": "appa rao",
         "speciality": "orthopedics",
         "availability": 13   
+    },
+    {
+        "d_name": "srinivasa rao",
+        "speciality": "psycologist",
+        "availability": 13   
     }
 ]
