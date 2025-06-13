@@ -17,6 +17,8 @@ for patient in patients:
 print(mappingss)
 print()
 print(doctors)
+
+print("Commit 3")
         
         
 # for doctor in doctors:
