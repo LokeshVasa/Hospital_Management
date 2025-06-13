@@ -7,7 +7,9 @@ mappingss=[]
 for patient in patients:
     issue=patient['issue']
     
-    for i in range(len(doctors)):
+    no_of_doctors= len(doctors)
+    
+    for i in range(no_of_doctors):
         if doctors[i]['speciality']==issue and patient['time_required'] <= doctors[i]['availability']:
             mappingss.append((doctors[i]['d_name'],patient['p_name']))
             doctors[i]['availability']-=patient['time_required']
