@@ -13,5 +13,15 @@
         "p_name": "jack",
         "issue": "dermetology",
         "time_required": 9
+    },
+    {
+        "p_name": "thor",
+        "issue": "dermetology",
+        "time_required": 5
+    },
+    {
+        "p_name": "groot",
+        "issue": "caridology",
+        "time_required": 5
     }
 ]
